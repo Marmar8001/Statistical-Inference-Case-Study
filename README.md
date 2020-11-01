@@ -4,7 +4,7 @@ There are two parts to the case study. In part A, I did the Pythonic implementat
 
 I implemented the following concepts as I worked through the case study:
 
-The z-statistic
+* The z-statistic
 The t-statistic
 The Central Limit Theorem
 Estimation of the population standard deviation and mean, from a sample
